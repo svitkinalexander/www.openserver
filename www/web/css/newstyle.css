@@ -1,0 +1,42 @@
+<style>
+	body{
+		margin:0;
+	}
+	header{
+		width:100%;
+		position:fixed;
+		z-index:999;
+		margin-top:0px;
+	}
+	.carousel slide{
+	margin-top:71px;
+	}
+	.container-fluid{
+		padding:0;
+	}
+	.row{
+		margin:0;
+	}
+	.col-md-8{
+		min-height: none;
+		width:100%;
+		padding:0;
+	}
+	.collapse navbar-collapse{
+		float:right;
+	}
+	#ipad{
+		float:right;
+	}
+	#md_10{
+		width:100%;
+	}
+	#carousel-example-generic{
+	margin-top:80px;
+	}
+	.panel{
+	width:90%;
+	margin-left:5%;
+	border:none;
+	}
+	</style>
